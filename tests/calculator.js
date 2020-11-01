@@ -48,7 +48,7 @@ it('subtraction test', function(){
   homePage.verifyResult('41');    
 
 
-browser.sleep(2000);
+browser.sleep(3000);
 
 
 });
