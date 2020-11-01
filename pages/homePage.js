@@ -19,7 +19,7 @@ let homePage = function(){
     secondNumber_input.sendKeys(secondNumber);
    };
     //This is method 'click()'
-   this.cliskGo = function(){
+   this.clickGo = function(){
     gobutton.click();
    };
 
