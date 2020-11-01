@@ -45,7 +45,7 @@ it('subtraction test', function(){
 
 //expect(result.getText()).toEqual('42');
 
-  homePage.verifyResult('41');    
+  homePage.verifyResult('42');    
 
 
 browser.sleep(3000);
