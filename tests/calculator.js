@@ -39,7 +39,7 @@ describe('demo calculator tests', function () {
     homePage.enterSecondNumber('6')
 
     //element(by.css('[ng-click="doAddition()"]')).click();
-    homePage.cliskGo();
+    homePage.clickGo();
 
     //let result = element(by.cssContainingText('.ng-binding','42'));
 
